@@ -13,11 +13,10 @@
   [![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00F6&labelColor=0D1117)](https://www.instagram.com/raiokan)
 </div>
 
-<img src="/images/header-banner.png" width="100%" alt="Banner">
+<img src="https://static.wixstatic.com/media/2a3147_c8560f648b0240eeb3738b79b6d4199a~mv2.png/v1/fill/w_808,h_576,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/o%20in%C3%ADcio%20(9).png" width="100%" alt="Banner">
 
 ## Sobre Mim
 
-<img align="right" src="/images/developer-illustration.png" width="250px" alt="Developer Illustration">
 
 Desenvolvedor de jogos e CEO da **Lorde Tempus**, com foco na criação de experiências interativas inovadoras. Apaixonado por tecnologia, narrativa e game design, busco constantemente unir criatividade e programação para desenvolver produtos digitais impactantes.
 
