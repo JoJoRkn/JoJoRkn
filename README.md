@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images-ext-1.discordapp.net/external/FUdcvcU83XBirSp-ciluKtHlBmcQgEJHw1r7n6lBvvY/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/315632622300561428/a_18bb8637bf8091f37dc2dc5282a4a9d9.gif?width=656&height=656" width="180" alt="Logo Profissional">
+  <img src="https://images-ext-1.discordapp.net/external/FUdcvcU83XBirSp-ciluKtHlBmcQgEJHw1r7n6lBvvY/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/315632622300561428/a_18bb8637bf8091f37dc2dc5282a4a9d9.gif?width=656&height=656"  width="180" alt="Logo Profissional">
   
   # João Guilherme (Raio)
   
@@ -13,7 +13,7 @@
   [![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00F6&labelColor=0D1117)](https://www.instagram.com/raiokan)
 </div>
 
-<img src="https://static.wixstatic.com/media/2a3147_c8560f648b0240eeb3738b79b6d4199a~mv2.png/v1/fill/w_808,h_576,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/o%20in%C3%ADcio%20(9).png" width="100%" alt="Banner">
+<img src="https://static.wixstatic.com/media/2a3147_c8560f648b0240eeb3738b79b6d4199a~mv2.png/v1/fill/w_808,h_576,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/o%20in%C3%ADcio%20(9).png" width="100%" height="60px" style="object-fit: cover;" alt="Banner">
 
 ## Sobre Mim
 
