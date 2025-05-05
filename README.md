@@ -99,7 +99,7 @@ Desenvolvedor de jogos e CEO da **Lorde Tempus**, com foco na criação de exper
 ## Lorde Tempus
 
 <div align="center">
-  <img src="/images/lorde-tempus-logo.png" width="250" alt="Lorde Tempus Logo">
+  <img src="https://static.wixstatic.com/media/2a3147_15cda228c7ef4342aebaf1039f560e9d~mv2.png/v1/fill/w_500,h_500,al_c,q_85,enc_avif,quality_auto/Logo%20Tempus%20(Colorido).png" width="250" alt="Lorde Tempus Logo">
   <p>A Lorde Tempus é uma empresa focada no desenvolvimento de jogos e experiências interativas inovadoras.</p>
   <p>Saiba mais em <a href="https://lordetempus.com">lordetempus.com</a></p>
 </div>
@@ -107,8 +107,11 @@ Desenvolvedor de jogos e CEO da **Lorde Tempus**, com foco na criação de exper
 ---
 
 <div align="center">
-  <p>&copy; 2023-2024 Lorde Tempus — João Guilherme (Raio)</p>
+  <p>&copy; 2023-Presente Lorde Tempus — João Guilherme (Raio)</p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=raiokan&style=flat-square&color=FF00F6" alt="Profile views">
+    <img src="https://static.wixstatic.com/media/2a3147_15cda228c7ef4342aebaf1039f560e9d~mv2.png/v1/fill/w_500,h_500,al_c,q_85,enc_avif,quality_auto/Logo%20Tempus%20(Colorido).png" alt="Profile views">
   </p>
 </div>
+```
+
+
